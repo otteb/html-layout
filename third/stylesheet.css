@@ -1,0 +1,47 @@
+div {
+    height: 100px;
+    width:100px;
+    position: absolute;
+    background: #4C91E3;
+    margin-top: 25px;
+    margin-left: 25px;
+    
+
+}
+p {
+    font-family: Tahoma;
+    text-align: center;
+    vertical-align: center;
+    line-height: 200px;
+}
+.section {
+    width: 100%;
+    height:300px;
+    display:block;
+    float: left;
+    background: white;
+    position: relative;
+}
+.before {
+    height: 150px;
+    background: #D5D6D7;
+}
+.second{
+    background: #4C91E3;
+    height: 150px;
+}
+ 
+.third{
+    background: #51E1C2;
+    height: 150px;
+
+}
+.fourth {
+    background: #B2E889;
+    height: 150px;
+}
+.fifth {
+    background: #F7E61E;
+    height: 150px;
+}
+
